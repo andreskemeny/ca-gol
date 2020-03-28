@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ca-gol/static/css/main.5f361e03.chunk.css",
+    "main.js": "/ca-gol/static/js/main.a27e2b13.chunk.js",
+    "main.js.map": "/ca-gol/static/js/main.a27e2b13.chunk.js.map",
+    "runtime-main.js": "/ca-gol/static/js/runtime-main.fcd9751d.js",
+    "runtime-main.js.map": "/ca-gol/static/js/runtime-main.fcd9751d.js.map",
+    "static/js/2.dbff4bb2.chunk.js": "/ca-gol/static/js/2.dbff4bb2.chunk.js",
+    "static/js/2.dbff4bb2.chunk.js.map": "/ca-gol/static/js/2.dbff4bb2.chunk.js.map",
+    "index.html": "/ca-gol/index.html",
+    "precache-manifest.21e1a0df4836a60edd7ce73a83ef7d8b.js": "/ca-gol/precache-manifest.21e1a0df4836a60edd7ce73a83ef7d8b.js",
+    "service-worker.js": "/ca-gol/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/ca-gol/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.dbff4bb2.chunk.js.LICENSE.txt": "/ca-gol/static/js/2.dbff4bb2.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ca-gol/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fcd9751d.js",
+    "static/js/2.dbff4bb2.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.a27e2b13.chunk.js"
+  ]
+}
